@@ -33,3 +33,10 @@
   margin: auto;
  width: 50%;
 }
+
+@media screen and (min-width: 600px) and (max-width: 768px) {
+  body {
+    background-color: black;
+    color: white;
+  }
+}
