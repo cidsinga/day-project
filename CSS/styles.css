@@ -1,0 +1,28 @@
+.First{
+  font-style: italic;
+}
+.Lorem{
+  font-size: 20px
+}
+.dummy{
+  color: red;
+}
+
+
+.example1{
+  font-weight: bolder;
+
+}
+
+.divexample{
+  font-size: 15px;
+}
+
+.exception{
+  font-size: 30px;
+}
+
+.name{
+  font-style: italic;
+  font-weight: bold;
+}
